@@ -1,8 +1,6 @@
-customer:
-  firstName: ramesh
+
 spring:
-  application:
-    name: driver-service
+  
   datasource:
     url: jdbc:oracle:thin:@10.90.1.105:1521/DEV
     username: HR
